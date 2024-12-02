@@ -2,8 +2,8 @@ from setuptools import setup
 import os, sys
 
 # check Python version
-if sys.version_info >= (3,8):
-  sys.exit('Sorry, Intertext requires Python 3.7 or earlier')
+#if sys.version_info >= (3,8):
+#  sys.exit('Sorry, Intertext requires Python 3.7 or earlier')
 
 setup(
   name='intertext',
